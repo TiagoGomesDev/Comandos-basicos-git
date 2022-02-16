@@ -14,7 +14,7 @@ git config
 Um dos comandos git mais usados ​​é o git config que pode ser usado para definir valores de configuração específicos do usuário como e-mail, algoritmo preferido para diff, nome de usuário e formato de arquivo etc. Por exemplo, o seguinte comando pode ser usado para definir o email:
 
 
-git config --global user.email sam@google.com
+git config --global user.email test@google.com
 
 git init
 
