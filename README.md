@@ -5,7 +5,7 @@ Tiago Gomes
 16/02/2022 11:44
 Quando se trata de sistemas de controle de versão, há muito poucos lá fora que podem ofuscar GIT em relevância, desempenho e prevalência. O GIT foi desenvolvido por Linus Torvalds em 2005 e hoje, milhões de empresas o usam para o eficiente gerenciamento de código e controle de versão de seus projetos. O software de código aberto pode ser baixado para plataformas Linux, Windows, Solaris e Mac; Mais informações sobre GIT básicos podem ser recuperados aqui. Neste tutorial, os comandos git mais básicos serão falados..
 
-
+<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="Octocat">
 
 Comandos Básicos de GIT
 
@@ -166,7 +166,7 @@ Executar o comando git log exibe uma lista de compromissos em uma ramificação,
 
 commit 15f4b6c44b3c8344caasdac9e4be13246e21sadw
 
-Author: Alex Hunter <alexh@gmail.com>
+Author: Tiago Gomes <tiago.dev9@gmail.com>
 
 Date:  Mon Oct 1 12:56:29 2016 -0600
 
